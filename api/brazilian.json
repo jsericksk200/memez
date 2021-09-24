@@ -1,0 +1,59 @@
+{
+  "brazilian": [
+    {
+      "id": 0,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Bolsonaro%20Rindo.jpg",
+      "memeName": "Bolsonaro Rindo"
+    },
+    {
+      "id": 1,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Com%20Meu%20Fuzil%20Fica%20F%C3%A1cil.png",
+      "memeName": "Com Meu Fuzil Fica Fácil"
+    },
+    {
+      "id": 2,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Eduardo%20Sterblitch%20Rindo.jpg",
+      "memeName": "Eduardo Sterblitch Rindo"
+    },
+    {
+      "id": 3,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Esse%20Programa%20Aqui.jpg",
+      "memeName": "Esse Programa Aqui"
+    },
+    {
+      "id": 4,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Faust%C3%A3o%20Duas%20Caras.jpg",
+      "memeName": "Faustão Duas Caras"
+    },
+    {
+      "id": 5,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Ih%20Rapaz.jpg",
+      "memeName": "Ih Rapaz"
+    },
+    {
+      "id": 6,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Maluco%20%C3%A9%20Brabo.jpg",
+      "memeName": "Maluco é Brabo"
+    },
+    {
+      "id": 7,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Que%20Viagem%20%C3%A9%20Essa.jpg",
+      "memeName": "Que Viagem é Essa"
+    },
+    {
+      "id": 8,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel%20Entrevistando%20Ningu%C3%A9m.jpg",
+      "memeName": "Sósia do Vin Diesel Entrevistando Ninguém"
+    },
+    {
+      "id": 9,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel.jpg",
+      "memeName": "Sósia do Vin Diesel"
+    },
+    {
+      "id": 10,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sias%20do%20Vin%20Diesel.jpg",
+      "memeName": "Sósias do Vin Diesel"
+    }
+  ]
+}
