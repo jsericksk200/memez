@@ -565,7 +565,17 @@
     { 
       "id": 15,
       "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Abbacchio%20Joins%20the%20Kicking.jpg",
-      "memeName": "Abbacchio Joins the Kicking"
+      "memeName": "Abbacchio Joins the Kicking" 
+    },
+    {
+      "id": 16,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Camera%20Zoomed%20on%20Rosa.jpg",
+      "memeName": "Camera Zoomed on Rosa"
+    },
+    {
+      "id": 17,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Girl%20Hiding%20From%20a%20Terminator.jpg",
+      "memeName": "Girl Hiding From a Terminator"
     }
   ],
   "brazilian": [
