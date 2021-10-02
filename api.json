@@ -1,673 +1,663 @@
 {
-  "anime": [
+  "varied": [
     {
       "id": 0,
-      "memeName": "All Might Confused",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/All%20Might%20Confused.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Always%20Has%20Been.jpg",
+      "memeName": "Always Has Been"
     },
     {
       "id": 1,
-      "memeName": "Ash Computer",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Ash%20Computer.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/American%20Chopper%20Argument.jpg",
+      "memeName": "American Chopper Argument"
     },
     {
       "id": 2,
-      "memeName": "Bills Crazy",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Bills%20Crazy.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Ancient%20Aliens.jpg",
+      "memeName": "Ancient Aliens"
     },
     {
       "id": 3,
-      "memeName": "Boruto in Trouble",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Boruto%20in%20Trouble.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bad%20Luck%20Brian.jpg",
+      "memeName": "Bad Luck Brian"
     },
     {
       "id": 4,
-      "memeName": "Empty Book",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Empty%20Book.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Batman%20Slapping%20Robin.jpg",
+      "memeName": "Batman Slapping Robin"
     },
     {
       "id": 5,
-      "memeName": "Goku Ok",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Goku%20Ok.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bernie%20I%20Am%20Once%20Again%20Asking%20For%20Your%20Support.jpg",
+      "memeName": "Bernie I Am Once Again Asking For Your Support"
     },
     {
       "id": 6,
-      "memeName": "Jotaro Smile",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Jotaro%20Smile.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bike%20Fall.jpg",
+      "memeName": "Bike Fall"
     },
     {
       "id": 7,
-      "memeName": "Kaneki K",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Kaneki%20K.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Blank%20Nut%20Button.jpg",
+      "memeName": "Blank Nut Button"
     },
     {
       "id": 8,
-      "memeName": "Obito Empty Heart",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Obito%20Empty%20Heart.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Boardroom%20Meeting%20Suggestion.jpg",
+      "memeName": "Boardroom Meeting Suggestion"
     },
     {
       "id": 9,
-      "memeName": "Sasuke Mocking",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Sasuke%20Mocking.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Brace%20Yourselves%20X%20is%20Coming.jpg",
+      "memeName": "Brace Yourselves X is Coming"
     },
     {
       "id": 10,
-      "memeName": "Sister Krone Running",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Sister%20Krone%20Running.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Yo%20Dawg%20Heard%20You.jpg",
+      "memeName": "Yo Dawg Heard You"
     },
     {
       "id": 11,
-      "memeName": "Tanjiro Disgusted 1",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Tanjiro%20Disgusted%201.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/But%20That's%20None%20Of%20My%20Business.jpg",
+      "memeName": "But That's None Of My Business"
     },
     {
       "id": 12,
-      "memeName": "Tanjiro Disgusted 2",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Tanjiro%20Disgusted%202.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Car%20Salesman%20Slaps%20Roof%20Of%20Car.jpg",
+      "memeName": "Car Salesman Slaps Roof Of Car"
     },
     {
       "id": 13,
-      "memeName": "Vegeta Flipping Off",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Vegeta%20Flipping%20Off.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Change%20My%20Mind.jpg",
+      "memeName": "Change My Mind"
     },
     {
       "id": 14,
-      "memeName": "What If",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/What%20If.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Clown%20Applying%20Makeup.jpg",
+      "memeName": "Clown Applying Makeup"
     },
     {
       "id": 15,
-      "memeName": "Abbacchio Joins the Kicking",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Abbacchio%20Joins%20the%20Kicking.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Creepy%20Condescending%20Wonka.jpg",
+      "memeName": "Creepy Condescending Wonka"
     },
     {
       "id": 16,
-      "memeName": "Camera Zoomed on Rosa",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Camera%20Zoomed%20on%20Rosa.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Cute%20Cat.jpg",
+      "memeName": "Cute Cat"
     },
     {
       "id": 17,
-      "memeName": "Girl Hiding From a Terminator",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Girl%20Hiding%20From%20a%20Terminator.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Disaster%20Girl.jpg",
+      "memeName": "Disaster Girl"
     },
     {
       "id": 18,
-      "memeName": "Kaibas Defeat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Kaibas%20Defeat.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Distracted%20Boyfriend.jpg",
+      "memeName": "Distracted Boyfriend"
     },
     {
       "id": 19,
-      "memeName": "Peter Parker Reading a Book",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Peter%20Parker%20Reading%20a%20Book.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Doge.jpg",
+      "memeName": "Doge"
     },
     {
       "id": 20,
-      "memeName": "Unsheathing the Sword",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Unsheathing%20the%20Sword.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Don't%20You%20Squidward.jpg",
+      "memeName": "Don't You Squidward"
     },
     {
       "id": 21,
-      "memeName": "Yuu Buys a Cookie",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Yuu%20Buys%20a%20Cookie.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Dr%20Evil%20Laser.jpg",
+      "memeName": "Dr Evil Laser"
+    },
+    {
+      "id": 22,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Drake%20Hotline%20Bling.jpg",
+      "memeName": "Drake Hotline Bling"
+    },
+    {
+      "id": 23,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Epic%20Handshake.jpg",
+      "memeName": "Epic Handshake"
+    },
+    {
+      "id": 24,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Evil%20Kermit.jpg",
+      "memeName": "Evil Kermit"
+    },
+    {
+      "id": 25,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Expanding%20Brain.jpg",
+      "memeName": "Expanding Brain"
+    },
+    {
+      "id": 26,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Fifa%20E%20Call%20Of%20Duty.jpg",
+      "memeName": "Fifa E Call Of Duty"
+    },
+    {
+      "id": 27,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Finding%20Neverland.jpg",
+      "memeName": "Finding Neverland"
+    },
+    {
+      "id": 28,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/First%20World%20Problems.jpg",
+      "memeName": "First World Problems"
+    },
+    {
+      "id": 29,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Futurama%20Fry.jpg",
+      "memeName": "Futurama Fry"
+    },
+    {
+      "id": 30,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Grandma%20Finds%20The%20Internet.jpg",
+      "memeName": "Grandma Finds The Internet"
+    },
+    {
+      "id": 31,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Gru's%20Plan.jpg",
+      "memeName": "Gru's Plan"
+    },
+    {
+      "id": 32,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Grumpy%20Cat.jpg",
+      "memeName": "Grumpy Cat"
+    },
+    {
+      "id": 33,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Guy%20Holding%20Cardboard%20Sign.jpg",
+      "memeName": "Guy Holding Cardboard Sign"
+    },
+    {
+      "id": 34,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Happy%20Star%20Congratulations.jpg",
+      "memeName": "Happy Star Congratulations"
+    },
+    {
+      "id": 35,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Hard%20To%20Swallow%20Pills.jpg",
+      "memeName": "Hard To Swallow Pills"
+    },
+    {
+      "id": 36,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Hide%20the%20Pain%20Harold.jpg",
+      "memeName": "Hide the Pain Harold"
+    },
+    {
+      "id": 37,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I%20Bet%20He's%20Thinking%20About%20Other%20Women.jpg",
+      "memeName": "I Bet He's Thinking About Other Women"
+    },
+    {
+      "id": 38,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I%20Should%20Buy%20A%20Boat%20Cat.jpg",
+      "memeName": "I Should Buy A Boat Cat"
+    },
+    {
+      "id": 39,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I'll%20Just%20Wait%20Here.jpg",
+      "memeName": "I'll Just Wait Here"
+    },
+    {
+      "id": 40,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I'm%20The%20Captain%20Now.jpg",
+      "memeName": "I'm The Captain Now"
+    },
+    {
+      "id": 41,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Imagination%20Spongebob.jpg",
+      "memeName": "Imagination Spongebob"
+    },
+    {
+      "id": 42,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Inhaling%20Seagull.jpg",
+      "memeName": "Inhaling Seagull"
+    },
+    {
+      "id": 43,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Is%20This%20A%20Pigeon.jpg",
+      "memeName": "Is This A Pigeon"
+    },
+    {
+      "id": 44,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Jack%20Sparrow%20Being%20Chased.jpg",
+      "memeName": "Jack Sparrow Being Chased"
+    },
+    {
+      "id": 45,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Keep%20Calm%20And%20Carry%20On%20Red.jpg",
+      "memeName": "Keep Calm And Carry On Red"
+    },
+    {
+      "id": 46,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Laughing%20Leo.jpg",
+      "memeName": "Laughing Leo"
+    },
+    {
+      "id": 47,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Left%20Exit%2012%20Off%20Ramp.jpg",
+      "memeName": "Left Exit 12 Off Ramp"
+    },
+    {
+      "id": 48,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Leonardo%20Dicaprio%20Cheers.jpg",
+      "memeName": "Leonardo Dicaprio Cheers"
+    },
+    {
+      "id": 49,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Marked%20Safe%20From.jpg",
+      "memeName": "Marked Safe From"
+    },
+    {
+      "id": 50,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Marvel%20Civil%20War%201.jpg",
+      "memeName": "Marvel Civil War 1"
+    },
+    {
+      "id": 51,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Maury%20Lie%20Detector.jpg",
+      "memeName": "Maury Lie Detector"
+    },
+    {
+      "id": 52,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Mocking%20Spongebob.jpg",
+      "memeName": "Mocking Spongebob"
+    },
+    {
+      "id": 53,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Monkey%20Puppet.jpg",
+      "memeName": "Monkey Puppet"
+    },
+    {
+      "id": 54,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Mugatu%20So%20Hot%20Right%20Now.jpg",
+      "memeName": "Mugatu So Hot Right Now"
+    },
+    {
+      "id": 55,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/One%20Does%20Not%20Simply.jpg",
+      "memeName": "One Does Not Simply"
+    },
+    {
+      "id": 56,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Oprah%20You%20Get%20A.jpg",
+      "memeName": "Oprah You Get A"
+    },
+    {
+      "id": 57,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Panik%20Kalm%20Panik.jpg",
+      "memeName": "Panik Kalm Panik"
+    },
+    {
+      "id": 58,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Presidential%20Alert.jpg",
+      "memeName": "Presidential Alert"
+    },
+    {
+      "id": 59,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Put%20It%20Somewhere%20Else%20Patrick.jpg",
+      "memeName": "Put It Somewhere Else Patrick"
+    },
+    {
+      "id": 60,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Roll%20Safe%20Think%20About%20It.jpg",
+      "memeName": "Roll Safe Think About It"
+    },
+    {
+      "id": 61,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Running%20Away%20Balloon.jpg",
+      "memeName": "Running Away Balloon"
+    },
+    {
+      "id": 62,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Sad%20Pablo%20Escobar.jpg",
+      "memeName": "Sad Pablo Escobar"
+    },
+    {
+      "id": 63,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Say%20it%20Again%2C%20Dexter.jpg",
+      "memeName": "Say it Again, Dexter"
+    },
+    {
+      "id": 64,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Scared%20Cat.jpg",
+      "memeName": "Scared Cat"
+    },
+    {
+      "id": 65,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/See%20Nobody%20Cares.jpg",
+      "memeName": "See Nobody Cares"
+    },
+    {
+      "id": 66,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Shut%20Up%20And%20Take%20My%20Money%20Fry.jpg",
+      "memeName": "Shut Up And Take My Money Fry"
+    },
+    {
+      "id": 67,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Sleeping%20Shaq.jpg",
+      "memeName": "Sleeping Shaq"
+    },
+    {
+      "id": 68,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Spongebob%20Ight%20Imma%20Head%20Out.jpg",
+      "memeName": "Spongebob Ight Imma Head Out"
+    },
+    {
+      "id": 69,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Squidward.jpg",
+      "memeName": "Squidward"
+    },
+    {
+      "id": 70,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Star%20Wars%20Yoda.jpg",
+      "memeName": "Star Wars Yoda"
+    },
+    {
+      "id": 71,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Success%20Kid.jpg",
+      "memeName": "Success Kid"
+    },
+    {
+      "id": 72,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Surprised%20Pikachu.jpg",
+      "memeName": "Surprised Pikachu"
+    },
+    {
+      "id": 73,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/That%20Would%20Be%20Great.jpg",
+      "memeName": "That Would Be Great"
+    },
+    {
+      "id": 74,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Most%20Interesting%20Man%20In%20The%20World.jpg",
+      "memeName": "The Most Interesting Man In The World"
+    },
+    {
+      "id": 75,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Rock%20Driving.jpg",
+      "memeName": "The Rock Driving"
+    },
+    {
+      "id": 76,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Scroll%20Of%20Truth.jpg",
+      "memeName": "The Scroll Of Truth"
+    },
+    {
+      "id": 77,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/They're%20The%20Same%20Picture.jpg",
+      "memeName": "They're The Same Picture"
+    },
+    {
+      "id": 78,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Third%20World%20Skeptical%20Kid.jpg",
+      "memeName": "Third World Skeptical Kid"
+    },
+    {
+      "id": 79,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Third%20World%20Success%20Kid.jpg",
+      "memeName": "Third World Success Kid"
+    },
+    {
+      "id": 80,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/This%20Is%20Fine.jpg",
+      "memeName": "This Is Fine"
+    },
+    {
+      "id": 81,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/This%20Is%20Where%20I'd%20Put%20My%20Trophy%20If%20I%20Had%20One.jpg",
+      "memeName": "This Is Where I'd Put My Trophy If I Had One"
+    },
+    {
+      "id": 82,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Too%20Damn%20High.jpg",
+      "memeName": "Too Damn High"
+    },
+    {
+      "id": 83,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Trump%20Bill%20Signing.jpg",
+      "memeName": "Trump Bill Signing"
+    },
+    {
+      "id": 84,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Tuxedo%20Winnie%20The%20Pooh.jpg",
+      "memeName": "Tuxedo Winnie The Pooh"
+    },
+    {
+      "id": 85,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Two%20Buttons.jpg",
+      "memeName": "Two Buttons"
+    },
+    {
+      "id": 86,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/UNO%20Draw%2025%20Cards.jpg",
+      "memeName": "UNO Draw 25 Cards"
+    },
+    {
+      "id": 87,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Uncle%20Sam.jpg",
+      "memeName": "Uncle Sam"
+    },
+    {
+      "id": 88,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Unsettled%20Tom.jpg",
+      "memeName": "Unsettled Tom"
+    },
+    {
+      "id": 89,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Waiting%20Skeleton.jpg",
+      "memeName": "Waiting Skeleton"
+    },
+    {
+      "id": 90,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Who%20Killed%20Hannibal.jpg",
+      "memeName": "Who Killed Hannibal"
+    },
+    {
+      "id": 91,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Woman%20Yelling%20At%20Cat.jpg",
+      "memeName": "Woman Yelling At Cat"
+    },
+    {
+      "id": 92,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/X%20All%20The%20Y.jpg",
+      "memeName": "X All The Y"
+    },
+    {
+      "id": 93,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/X%2C%20X%20Everywhere.jpg",
+      "memeName": "X, X Everywhere"
+    },
+    {
+      "id": 94,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/What%20Did%20It%20Cost%20Everything.jpg",
+      "memeName": "What Did It Cost Everything"
+    },
+    {
+      "id": 95,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Y'all%20Got%20Any%20More%20Of%20That.jpg",
+      "memeName": "Y'all Got Any More Of That"
+    },
+    {
+      "id": 96,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Buff%20Doge%20vs.%20Cheems.jpg",
+      "memeName": "Buff Doge vs. Cheems"
+    }
+  ],
+  "anime": [
+    {
+      "id": 0,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/All%20Might%20Confused.png",
+      "memeName": "All Might Confused"
+    },
+    {
+      "id": 1,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Ash%20Computer.png",
+      "memeName": "Ash Computer"
+    },
+    {
+      "id": 2,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Bills%20Crazy.png",
+      "memeName": "Bills Crazy"
+    },
+    {
+      "id": 3,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Boruto%20in%20Trouble.jpg",
+      "memeName": "Boruto in Trouble"
+    },
+    {
+      "id": 4,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Empty%20Book.jpg",
+      "memeName": "Empty Book"
+    },
+    {
+      "id": 5,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Goku%20Ok.jpg",
+      "memeName": "Goku Ok"
+    },
+    {
+      "id": 6,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Jotaro%20Smile.png",
+      "memeName": "Jotaro Smile"
+    },
+    {
+      "id": 7,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Kaneki%20K.jpg",
+      "memeName": "Kaneki K"
+    },
+    {
+      "id": 8,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Obito%20Empty%20Heart.png",
+      "memeName": "Obito Empty Heart"
+    },
+    {
+      "id": 9,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Sasuke%20Mocking.jpg",
+      "memeName": "Sasuke Mocking"
+    },
+    {
+      "id": 10,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Sister%20Krone%20Running.png",
+      "memeName": "Sister Krone Running"
+    },
+    {
+      "id": 11,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Tanjiro%20Disgusted%201.jpg",
+      "memeName": "Tanjiro Disgusted 1"
+    },
+    {
+      "id": 12,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Tanjiro%20Disgusted%202.jpg",
+      "memeName": "Tanjiro Disgusted 2"
+    },
+    {
+      "id": 13,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Vegeta%20Flipping%20Off.jpg",
+      "memeName": "Vegeta Flipping Off"
+    },
+    {
+      "id": 14,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/What%20If.jpg",
+      "memeName": "What If"
+    },
+    { 
+      "id": 15,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Abbacchio%20Joins%20the%20Kicking.jpg",
+      "memeName": "Abbacchio Joins the Kicking" 
+    },
+    {
+      "id": 16,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Camera%20Zoomed%20on%20Rosa.jpg",
+      "memeName": "Camera Zoomed on Rosa"
+    },
+    {
+      "id": 17,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Girl%20Hiding%20From%20a%20Terminator.jpg",
+      "memeName": "Girl Hiding From a Terminator"
+    },
+    {
+      "id": 18,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Kaibas%20Defeat.jpg",
+      "memeName": "Kaibas Defeat"
+    },
+    {
+      "id": 19,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Peter%20Parker%20Reading%20a%20Book.jpg",
+      "memeName": "Peter Parker Reading a Book"
+    },
+    {
+      "id": 20,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Unsheathing%20the%20Sword.jpg",
+      "memeName": "Unsheathing the Sword"
+    },
+    {
+      "id": 21,
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/anime/Yuu%20Buys%20a%20Cookie.jpg",
+      "memeName": "Yuu Buys a Cookie"
     }
   ],
   "brazilian": [
     {
       "id": 0,
-      "memeName": "Bolsonaro Rindo",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Bolsonaro%20Rindo.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Bolsonaro%20Rindo.jpg",
+      "memeName": "Bolsonaro Rindo"
     },
     {
       "id": 1,
-      "memeName": "Com Meu Fuzil Fica Fácil",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Com%20Meu%20Fuzil%20Fica%20F%C3%A1cil.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Com%20Meu%20Fuzil%20Fica%20F%C3%A1cil.png",
+      "memeName": "Com Meu Fuzil Fica Fácil"
     },
     {
       "id": 2,
-      "memeName": "Eduardo Sterblitch Rindo",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Eduardo%20Sterblitch%20Rindo.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Eduardo%20Sterblitch%20Rindo.jpg",
+      "memeName": "Eduardo Sterblitch Rindo"
     },
     {
       "id": 3,
-      "memeName": "Esse Programa Aqui",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Esse%20Programa%20Aqui.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Esse%20Programa%20Aqui.jpg",
+      "memeName": "Esse Programa Aqui"
     },
     {
       "id": 4,
-      "memeName": "Faustão Duas Caras",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Faust%C3%A3o%20Duas%20Caras.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Faust%C3%A3o%20Duas%20Caras.jpg",
+      "memeName": "Faustão Duas Caras"
     },
     {
       "id": 5,
-      "memeName": "Ih Rapaz",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Ih%20Rapaz.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Ih%20Rapaz.jpg",
+      "memeName": "Ih Rapaz"
     },
     {
       "id": 6,
-      "memeName": "Maluco é Brabo",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Maluco%20%C3%A9%20Brabo.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Maluco%20%C3%A9%20Brabo.jpg",
+      "memeName": "Maluco é Brabo"
     },
     {
       "id": 7,
-      "memeName": "Que Viagem é Essa",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Que%20Viagem%20%C3%A9%20Essa.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Que%20Viagem%20%C3%A9%20Essa.jpg",
+      "memeName": "Que Viagem é Essa"
     },
     {
       "id": 8,
-      "memeName": "Sósia do Vin Diesel Entrevistando Ninguém",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel%20Entrevistando%20Ningu%C3%A9m.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel%20Entrevistando%20Ningu%C3%A9m.jpg",
+      "memeName": "Sósia do Vin Diesel Entrevistando Ninguém"
     },
     {
       "id": 9,
-      "memeName": "Sósia do Vin Diesel",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sia%20do%20Vin%20Diesel.jpg",
+      "memeName": "Sósia do Vin Diesel"
     },
     {
       "id": 10,
-      "memeName": "Sósias do Vin Diesel",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sias%20do%20Vin%20Diesel.jpg"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/S%C3%B3sias%20do%20Vin%20Diesel.jpg",
+      "memeName": "Sósias do Vin Diesel"
     },
     {
       "id": 11,
-      "memeName": "Nazaré Confusa",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Nazar%C3%A9%20Confusa.jpg"
-    },
-    {
-      "id": 12,
-      "memeName": "Não Sou Capaz de Opinar",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/N%C3%A3o%20Sou%20Capaz%20de%20Opinar.jpg"
-    }
-  ],
-  "varied": [
-    {
-      "id": 0,
-      "memeName": "Always Has Been",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Always%20Has%20Been.jpg"
-    },
-    {
-      "id": 1,
-      "memeName": "American Chopper Argument",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/American%20Chopper%20Argument.jpg"
-    },
-    {
-      "id": 2,
-      "memeName": "Ancient Aliens",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Ancient%20Aliens.jpg"
-    },
-    {
-      "id": 3,
-      "memeName": "Bad Luck Brian",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bad%20Luck%20Brian.jpg"
-    },
-    {
-      "id": 4,
-      "memeName": "Batman Slapping Robin",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Batman%20Slapping%20Robin.jpg"
-    },
-    {
-      "id": 5,
-      "memeName": "Bernie I Am Once Again Asking For Your Support",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bernie%20I%20Am%20Once%20Again%20Asking%20For%20Your%20Support.jpg"
-    },
-    {
-      "id": 6,
-      "memeName": "Bike Fall",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Bike%20Fall.jpg"
-    },
-    {
-      "id": 7,
-      "memeName": "Blank Nut Button",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Blank%20Nut%20Button.jpg"
-    },
-    {
-      "id": 8,
-      "memeName": "Boardroom Meeting Suggestion",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Boardroom%20Meeting%20Suggestion.jpg"
-    },
-    {
-      "id": 9,
-      "memeName": "Brace Yourselves X is Coming",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Brace%20Yourselves%20X%20is%20Coming.jpg"
-    },
-    {
-      "id": 10,
-      "memeName": "Yo Dawg Heard You",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Yo%20Dawg%20Heard%20You.jpg"
-    },
-    {
-      "id": 11,
-      "memeName": "But That's None Of My Business",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/But%20That's%20None%20Of%20My%20Business.jpg"
-    },
-    {
-      "id": 12,
-      "memeName": "Car Salesman Slaps Roof Of Car",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Car%20Salesman%20Slaps%20Roof%20Of%20Car.jpg"
-    },
-    {
-      "id": 13,
-      "memeName": "Change My Mind",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Change%20My%20Mind.jpg"
-    },
-    {
-      "id": 14,
-      "memeName": "Clown Applying Makeup",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Clown%20Applying%20Makeup.jpg"
-    },
-    {
-      "id": 15,
-      "memeName": "Creepy Condescending Wonka",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Creepy%20Condescending%20Wonka.jpg"
-    },
-    {
-      "id": 16,
-      "memeName": "Cute Cat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Cute%20Cat.jpg"
-    },
-    {
-      "id": 17,
-      "memeName": "Disaster Girl",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Disaster%20Girl.jpg"
-    },
-    {
-      "id": 18,
-      "memeName": "Distracted Boyfriend",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Distracted%20Boyfriend.jpg"
-    },
-    {
-      "id": 19,
-      "memeName": "Doge",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Doge.jpg"
-    },
-    {
-      "id": 20,
-      "memeName": "Don't You Squidward",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Don't%20You%20Squidward.jpg"
-    },
-    {
-      "id": 21,
-      "memeName": "Dr Evil Laser",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Dr%20Evil%20Laser.jpg"
-    },
-    {
-      "id": 22,
-      "memeName": "Drake Hotline Bling",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Drake%20Hotline%20Bling.jpg"
-    },
-    {
-      "id": 23,
-      "memeName": "Epic Handshake",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Epic%20Handshake.jpg"
-    },
-    {
-      "id": 24,
-      "memeName": "Evil Kermit",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Evil%20Kermit.jpg"
-    },
-    {
-      "id": 25,
-      "memeName": "Expanding Brain",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Expanding%20Brain.jpg"
-    },
-    {
-      "id": 26,
-      "memeName": "Fifa E Call Of Duty",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Fifa%20E%20Call%20Of%20Duty.jpg"
-    },
-    {
-      "id": 27,
-      "memeName": "Finding Neverland",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Finding%20Neverland.jpg"
-    },
-    {
-      "id": 28,
-      "memeName": "First World Problems",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/First%20World%20Problems.jpg"
-    },
-    {
-      "id": 29,
-      "memeName": "Futurama Fry",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Futurama%20Fry.jpg"
-    },
-    {
-      "id": 30,
-      "memeName": "Grandma Finds The Internet",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Grandma%20Finds%20The%20Internet.jpg"
-    },
-    {
-      "id": 31,
-      "memeName": "Gru's Plan",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Gru's%20Plan.jpg"
-    },
-    {
-      "id": 32,
-      "memeName": "Grumpy Cat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Grumpy%20Cat.jpg"
-    },
-    {
-      "id": 33,
-      "memeName": "Guy Holding Cardboard Sign",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Guy%20Holding%20Cardboard%20Sign.jpg"
-    },
-    {
-      "id": 34,
-      "memeName": "Happy Star Congratulations",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Happy%20Star%20Congratulations.jpg"
-    },
-    {
-      "id": 35,
-      "memeName": "Hard To Swallow Pills",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Hard%20To%20Swallow%20Pills.jpg"
-    },
-    {
-      "id": 36,
-      "memeName": "Hide the Pain Harold",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Hide%20the%20Pain%20Harold.jpg"
-    },
-    {
-      "id": 37,
-      "memeName": "I Bet He's Thinking About Other Women",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I%20Bet%20He's%20Thinking%20About%20Other%20Women.jpg"
-    },
-    {
-      "id": 38,
-      "memeName": "I Should Buy A Boat Cat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I%20Should%20Buy%20A%20Boat%20Cat.jpg"
-    },
-    {
-      "id": 39,
-      "memeName": "I'll Just Wait Here",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I'll%20Just%20Wait%20Here.jpg"
-    },
-    {
-      "id": 40,
-      "memeName": "I'm The Captain Now",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/I'm%20The%20Captain%20Now.jpg"
-    },
-    {
-      "id": 41,
-      "memeName": "Imagination Spongebob",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Imagination%20Spongebob.jpg"
-    },
-    {
-      "id": 42,
-      "memeName": "Inhaling Seagull",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Inhaling%20Seagull.jpg"
-    },
-    {
-      "id": 43,
-      "memeName": "Is This A Pigeon",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Is%20This%20A%20Pigeon.jpg"
-    },
-    {
-      "id": 44,
-      "memeName": "Jack Sparrow Being Chased",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Jack%20Sparrow%20Being%20Chased.jpg"
-    },
-    {
-      "id": 45,
-      "memeName": "Keep Calm And Carry On Red",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Keep%20Calm%20And%20Carry%20On%20Red.jpg"
-    },
-    {
-      "id": 46,
-      "memeName": "Laughing Leo",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Laughing%20Leo.jpg"
-    },
-    {
-      "id": 47,
-      "memeName": "Left Exit 12 Off Ramp",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Left%20Exit%2012%20Off%20Ramp.jpg"
-    },
-    {
-      "id": 48,
-      "memeName": "Leonardo Dicaprio Cheers",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Leonardo%20Dicaprio%20Cheers.jpg"
-    },
-    {
-      "id": 49,
-      "memeName": "Marked Safe From",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Marked%20Safe%20From.jpg"
-    },
-    {
-      "id": 50,
-      "memeName": "Marvel Civil War 1",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Marvel%20Civil%20War%201.jpg"
-    },
-    {
-      "id": 51,
-      "memeName": "Maury Lie Detector",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Maury%20Lie%20Detector.jpg"
-    },
-    {
-      "id": 52,
-      "memeName": "Mocking Spongebob",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Mocking%20Spongebob.jpg"
-    },
-    {
-      "id": 53,
-      "memeName": "Monkey Puppet",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Monkey%20Puppet.jpg"
-    },
-    {
-      "id": 54,
-      "memeName": "Mugatu So Hot Right Now",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Mugatu%20So%20Hot%20Right%20Now.jpg"
-    },
-    {
-      "id": 55,
-      "memeName": "One Does Not Simply",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/One%20Does%20Not%20Simply.jpg"
-    },
-    {
-      "id": 56,
-      "memeName": "Oprah You Get A",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Oprah%20You%20Get%20A.jpg"
-    },
-    {
-      "id": 57,
-      "memeName": "Panik Kalm Panik",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Panik%20Kalm%20Panik.jpg"
-    },
-    {
-      "id": 58,
-      "memeName": "Presidential Alert",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Presidential%20Alert.jpg"
-    },
-    {
-      "id": 59,
-      "memeName": "Put It Somewhere Else Patrick",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Put%20It%20Somewhere%20Else%20Patrick.jpg"
-    },
-    {
-      "id": 60,
-      "memeName": "Roll Safe Think About It",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Roll%20Safe%20Think%20About%20It.jpg"
-    },
-    {
-      "id": 61,
-      "memeName": "Running Away Balloon",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Running%20Away%20Balloon.jpg"
-    },
-    {
-      "id": 62,
-      "memeName": "Sad Pablo Escobar",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Sad%20Pablo%20Escobar.jpg"
-    },
-    {
-      "id": 63,
-      "memeName": "Say it Again, Dexter",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Say%20it%20Again%2C%20Dexter.jpg"
-    },
-    {
-      "id": 64,
-      "memeName": "Scared Cat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Scared%20Cat.jpg"
-    },
-    {
-      "id": 65,
-      "memeName": "See Nobody Cares",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/See%20Nobody%20Cares.jpg"
-    },
-    {
-      "id": 66,
-      "memeName": "Shut Up And Take My Money Fry",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Shut%20Up%20And%20Take%20My%20Money%20Fry.jpg"
-    },
-    {
-      "id": 67,
-      "memeName": "Sleeping Shaq",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Sleeping%20Shaq.jpg"
-    },
-    {
-      "id": 68,
-      "memeName": "Spongebob Ight Imma Head Out",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Spongebob%20Ight%20Imma%20Head%20Out.jpg"
-    },
-    {
-      "id": 69,
-      "memeName": "Squidward",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Squidward.jpg"
-    },
-    {
-      "id": 70,
-      "memeName": "Star Wars Yoda",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Star%20Wars%20Yoda.jpg"
-    },
-    {
-      "id": 71,
-      "memeName": "Success Kid",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Success%20Kid.jpg"
-    },
-    {
-      "id": 72,
-      "memeName": "Surprised Pikachu",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Surprised%20Pikachu.jpg"
-    },
-    {
-      "id": 73,
-      "memeName": "That Would Be Great",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/That%20Would%20Be%20Great.jpg"
-    },
-    {
-      "id": 74,
-      "memeName": "The Most Interesting Man In The World",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Most%20Interesting%20Man%20In%20The%20World.jpg"
-    },
-    {
-      "id": 75,
-      "memeName": "The Rock Driving",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Rock%20Driving.jpg"
-    },
-    {
-      "id": 76,
-      "memeName": "The Scroll Of Truth",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/The%20Scroll%20Of%20Truth.jpg"
-    },
-    {
-      "id": 77,
-      "memeName": "They're The Same Picture",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/They're%20The%20Same%20Picture.jpg"
-    },
-    {
-      "id": 78,
-      "memeName": "Third World Skeptical Kid",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Third%20World%20Skeptical%20Kid.jpg"
-    },
-    {
-      "id": 79,
-      "memeName": "Third World Success Kid",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Third%20World%20Success%20Kid.jpg"
-    },
-    {
-      "id": 80,
-      "memeName": "This Is Fine",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/This%20Is%20Fine.jpg"
-    },
-    {
-      "id": 81,
-      "memeName": "This Is Where I'd Put My Trophy If I Had One",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/This%20Is%20Where%20I'd%20Put%20My%20Trophy%20If%20I%20Had%20One.jpg"
-    },
-    {
-      "id": 82,
-      "memeName": "Too Damn High",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Too%20Damn%20High.jpg"
-    },
-    {
-      "id": 83,
-      "memeName": "Trump Bill Signing",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Trump%20Bill%20Signing.jpg"
-    },
-    {
-      "id": 84,
-      "memeName": "Tuxedo Winnie The Pooh",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Tuxedo%20Winnie%20The%20Pooh.jpg"
-    },
-    {
-      "id": 85,
-      "memeName": "Two Buttons",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Two%20Buttons.jpg"
-    },
-    {
-      "id": 86,
-      "memeName": "UNO Draw 25 Cards",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/UNO%20Draw%2025%20Cards.jpg"
-    },
-    {
-      "id": 87,
-      "memeName": "Uncle Sam",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Uncle%20Sam.jpg"
-    },
-    {
-      "id": 88,
-      "memeName": "Unsettled Tom",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Unsettled%20Tom.jpg"
-    },
-    {
-      "id": 89,
-      "memeName": "Waiting Skeleton",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Waiting%20Skeleton.jpg"
-    },
-    {
-      "id": 90,
-      "memeName": "Who Killed Hannibal",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Who%20Killed%20Hannibal.jpg"
-    },
-    {
-      "id": 91,
-      "memeName": "Woman Yelling At Cat",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Woman%20Yelling%20At%20Cat.jpg"
-    },
-    {
-      "id": 92,
-      "memeName": "X All The Y",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/X%20All%20The%20Y.jpg"
-    },
-    {
-      "id": 93,
-      "memeName": "X, X Everywhere",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/X%2C%20X%20Everywhere.jpg"
-    },
-    {
-      "id": 94,
-      "memeName": "What Did It Cost Everything",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/What%20Did%20It%20Cost%20Everything.jpg"
-    },
-    {
-      "id": 95,
-      "memeName": "Y'all Got Any More Of That",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Y'all%20Got%20Any%20More%20Of%20That.jpg"
-    },
-    {
-      "id": 96,
-      "memeName": "Buff Doge vs. Cheems",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Buff%20Doge%20vs.%20Cheems.jpg"
-    },
-    {
-      "id": 97,
-      "memeName": "Chloe",
-      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/varied/Chloe.png"
+      "memeUrl": "https://raw.githubusercontent.com/jsericksk200/memez/main/memes/brazilian/Nazar%C3%A9%20Confusa.jpg",
+      "memeName": "Nazaré Confusa"
     }
   ]
 }
